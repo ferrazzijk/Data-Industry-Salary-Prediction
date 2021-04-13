@@ -22,4 +22,4 @@ The purpose of this project is to determine which data analysis skills are assoc
 *   San Francisco, CA
 *   Seattle, WA
 
-This file contains original exploration of scraping desired info and combination of data after being scraped for analysis. To view the scraping files of each role, please select the respective link in the Job Titles list.
+The DataIndustrySalaryPrediction.py file contains original exploration of scraping desired info and combination of data after being scraped for analysis. To view the scraping files of each role, please select the respective link in the Job Titles list.
