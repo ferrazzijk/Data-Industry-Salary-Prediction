@@ -21,4 +21,5 @@ The purpose of this project is to determine which data analysis skills are assoc
 **Additional Links**
 *    [Scraping Exploration](https://colab.research.google.com/drive/1K1VMiRG_wzVm0wBSyBHoJJ77rSpZM-wf?usp=sharing)
 *    [Exploratory Data Analysis](https://colab.research.google.com/drive/1lDlqmcv6xav48C5uj2YLJwK5UJ3BNYET?usp=sharing)
-*    [Model Building & Testing](https://colab.research.google.com/drive/1AyO8kZANyqWAacCn7Odrt5DhW9ZkAZEU?usp=sharing)
+*    [Model Building & Testing Part 1](https://colab.research.google.com/drive/17wVHuX5pFcVi2V_r_11FdT1pVpzP8Dnw?usp=sharing)
+*    [Model Building & Testing Part 2](https://colab.research.google.com/drive/1AyO8kZANyqWAacCn7Odrt5DhW9ZkAZEU?usp=sharing)
